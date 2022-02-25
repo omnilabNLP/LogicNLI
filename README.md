@@ -25,7 +25,7 @@ In this paper, we propose a diagnostic method to diagnose LMs’ FOL reasoning a
 Jidong Tian, Yitian Li, Wenqing Chen, Liqiang Xiao, Hao He, and Yaohui Jin. [**Diagnosing the first-order logical reasoning ability through LogicNLI**](https://aclanthology.org/2021.emnlp-main.303/). *In Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing*, pages 3738–3747, Online and Punta Cana, Dominican Republic, November 2021. Association for Computational Linguistics.  
 
 - ## Dataset
-[LogicNLI_sim](http://www.baidu.com)
+[LogicNLI_sim](dataset/LogicNLI_sim.zip)
   
 
   
